@@ -949,16 +949,8 @@ ejercicios-c-mecatronica/
 
 ## CRITERIOS DE EVALUACIÓN
 
-### Por Ejercicio (100 puntos total):
-- **Funcionamiento (60 pts)**: Pasa todos los test cases
-- **Estilo de código (20 pts)**: Indentación, nombres de variables, comentarios
-- **Eficiencia (10 pts)**: Algoritmo apropiado para el problema
-- **Validación de entrada (10 pts)**: Manejo de casos extremos
-
 ### Distribución Temporal Sugerida:
 - **Día 1-2**: Ejercicios 1-10 (Básicos)
 - **Día 3-4**: Ejercicios 11-20 (Variables y decisiones)
 - **Día 5-6**: Ejercicios 21-30 (Ciclos y arreglos)
 - **Día 7**: Ejercicios 31-40 (Funciones avanzadas y sistemas complejos)
-
-**Total: 40 ejercicios** que cubren progresivamente todos los conceptos con enfoque en mecatrónica.
